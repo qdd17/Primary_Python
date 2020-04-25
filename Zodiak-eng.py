@@ -1,4 +1,4 @@
-#Zodiac script. V1.0
+#Zodiac script, My 'Hello World'. V1.0 
 Zod1, Zod2, Zod3, Zod4, Zod5, Zod6, Zod7, Zod8, Zod9, Zod10, Zod11, Zod12, Znak = "Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo", "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces", "Your zodiac sign "
 MonthName = ['January' , 'February' , 'March' , 'April' , 'May' , 'June' , 'July' , 'August' , 'September' , 'October' , 'November' , 'December']
 
